@@ -1,0 +1,202 @@
+/* .login-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100vh;
+  }
+  
+  .board-container {
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .board-text {
+    color: #fff;
+    font-size: 48px;
+  }
+  
+  .login-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .form-container {
+    width: 300px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-container {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .input-label {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  .username-input-filed,
+  .password-input-filed {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .login-button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .login-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-message {
+    color: #ff0000;
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+  }
+   */ 
+
+
+
+
+   .login-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100vh;
+  }
+  
+  .board-container {
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .board-text {
+    color: #fff;
+    font-size: 48px;
+  }
+  
+  .signin-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .signin-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .signin-paragraph {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .signin-google-button,
+  .signin-apple-button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .form-container {
+    width: 300px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-container {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .input-label {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  .email-input-filed,
+  .password-input-filed {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .forgot-password {
+    text-align: right;
+    margin-bottom: 20px;
+  }
+  
+  .forgot-password a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .signin-button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .signin-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-message {
+    color: #ff0000;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  .register-link {
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  .register-link a {
+    text-decoration: none;
+    color: #007bff;
+  }
+   
+
